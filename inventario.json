@@ -1,0 +1,1221 @@
+{
+  "paginas": [
+    "https://andradevianaengenharia.com.br/",
+    "https://andradevianaengenharia.com.br/portfolio/",
+    "https://andradevianaengenharia.com.br/servicos/",
+    "https://andradevianaengenharia.com.br/sobre/"
+  ],
+  "arquivos": {
+    "https://andradevianaengenharia.com.br/": {
+      "arquivo": "index.html",
+      "tipo": "text/html",
+      "bytes": 161089
+    },
+    "https://andradevianaengenharia.com.br/sobre/": {
+      "arquivo": "sobre/index.html",
+      "tipo": "text/html",
+      "bytes": 117494
+    },
+    "https://andradevianaengenharia.com.br/servicos/": {
+      "arquivo": "servicos/index.html",
+      "tipo": "text/html",
+      "bytes": 134174
+    },
+    "https://andradevianaengenharia.com.br/portfolio/": {
+      "arquivo": "portfolio/index.html",
+      "tipo": "text/html",
+      "bytes": 132586
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/space-mono/space-mono-bold.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/space-mono/space-mono-bold.woff2",
+      "tipo": "font/woff2",
+      "bytes": 32096
+    },
+    "https://andradevianaengenharia.com.br/wp-includes/blocks/social-links/style.min.css?ver=7.1.3": {
+      "arquivo": "wp-includes/blocks/social-links/style.min-55e2c542.css",
+      "tipo": "text/css",
+      "bytes": 11762
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7871-copiar-300x200.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7871-copiar-300x200.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 36259
+    },
+    "https://andradevianaengenharia.com.br/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=1bf28ded04f9f188bdcb": {
+      "arquivo": "wp-includes/js/dist/script-modules/block-library/navigation/view.min-884e9edd.js",
+      "tipo": "text/javascript",
+      "bytes": 3033
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7557-copiar-edited-1024x1536.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7557-copiar-edited-1024x1536.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 105373
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7557-copiar-edited-683x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7557-copiar-edited-683x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 50093
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/clay-leconey-XSONkHbAHkU-unsplash.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/clay-leconey-XSONkHbAHkU-unsplash.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 809890
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/josh-olalde-X1P1_EDNnok-unsplash-300x200.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/josh-olalde-X1P1_EDNnok-unsplash-300x200.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 14875
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp21.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp21.png",
+      "tipo": "image/png",
+      "bytes": 52648
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/arsenal/arsenal-bold.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/arsenal/arsenal-bold.woff2",
+      "tipo": "font/woff2",
+      "bytes": 55020
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/fonts/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65xg0pX189fg.woff2": {
+      "arquivo": "wp-content/uploads/fonts/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65xg0pX189fg.woff2",
+      "tipo": "font/woff2",
+      "bytes": 24316
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp25.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp25.png",
+      "tipo": "image/png",
+      "bytes": 73701
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/suplan.png": {
+      "arquivo": "wp-content/uploads/2025/06/suplan.png",
+      "tipo": "image/png",
+      "bytes": 319685
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-8-768x1038.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-8-768x1038.png",
+      "tipo": "image/png",
+      "bytes": 251109
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-02-1280x1219-1-1024x975.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-02-1280x1219-1-1024x975.png",
+      "tipo": "image/png",
+      "bytes": 625219
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-01-1280x1219-1-300x286.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-01-1280x1219-1-300x286.png",
+      "tipo": "image/png",
+      "bytes": 94453
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/fonts/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5xg0pX189fg.woff2": {
+      "arquivo": "wp-content/uploads/fonts/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5xg0pX189fg.woff2",
+      "tipo": "font/woff2",
+      "bytes": 24360
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-3-760x1024.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-3-760x1024.png",
+      "tipo": "image/png",
+      "bytes": 321341
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/nichika-sakurai-HmaOhgodxbI-unsplash-1536x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/nichika-sakurai-HmaOhgodxbI-unsplash-1536x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 264879
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01-2048x473.png": {
+      "arquivo": "wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01-2048x473.png",
+      "tipo": "image/png",
+      "bytes": 26580
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/jost/jost-variable.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/jost/jost-variable.woff2",
+      "tipo": "font/woff2",
+      "bytes": 50396
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-4-768x972.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-4-768x972.png",
+      "tipo": "image/png",
+      "bytes": 289817
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/fonts/PublicaSans-Medium.otf": {
+      "arquivo": "wp-content/uploads/fonts/PublicaSans-Medium.otf",
+      "tipo": "font/otf",
+      "bytes": 83904
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-3-768x1034.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-3-768x1034.png",
+      "tipo": "image/png",
+      "bytes": 328248
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/Captura-de-Tela-2025-06-26-as-23.27.11-1536x858.png": {
+      "arquivo": "wp-content/uploads/2025/06/Captura-de-Tela-2025-06-26-as-23.27.11-1536x858.png",
+      "tipo": "image/png",
+      "bytes": 372281
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/gotu/gotu-regular.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/gotu/gotu-regular.woff2",
+      "tipo": "font/woff2",
+      "bytes": 188260
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/josh-olalde-X1P1_EDNnok-unsplash-1024x683.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/josh-olalde-X1P1_EDNnok-unsplash-1024x683.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 84690
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-11-768x670.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-11-768x670.png",
+      "tipo": "image/png",
+      "bytes": 236916
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/equipeAV.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/equipeAV.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 1169088
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-1-300x239.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-1-300x239.png",
+      "tipo": "image/png",
+      "bytes": 38044
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-02-1280x1219-1-300x286.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-02-1280x1219-1-300x286.png",
+      "tipo": "image/png",
+      "bytes": 43760
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7871-copiar-768x512.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7871-copiar-768x512.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 88786
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp23.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp23.png",
+      "tipo": "image/png",
+      "bytes": 76984
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp29.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp29.png",
+      "tipo": "image/png",
+      "bytes": 98617
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-12.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-12.png",
+      "tipo": "image/png",
+      "bytes": 794436
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8165-copiar-scaled.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8165-copiar-scaled.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 325215
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image.png": {
+      "arquivo": "wp-content/uploads/2025/06/image.png",
+      "tipo": "image/png",
+      "bytes": 1758001
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/josh-olalde-X1P1_EDNnok-unsplash-768x512.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/josh-olalde-X1P1_EDNnok-unsplash-768x512.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 54189
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-11-300x262.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-11-300x262.png",
+      "tipo": "image/png",
+      "bytes": 43724
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7477-copiar.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7477-copiar.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 697568
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/archivo/archivo_wght.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/archivo/archivo_wght.woff2",
+      "tipo": "font/woff2",
+      "bytes": 189324
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-9.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-9.png",
+      "tipo": "image/png",
+      "bytes": 2135548
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/norte.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/norte.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 110870
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/koulen/koulen-regular.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/koulen/koulen-regular.woff2",
+      "tipo": "font/woff2",
+      "bytes": 20884
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/perini2-768x582.png": {
+      "arquivo": "wp-content/uploads/2025/06/perini2-768x582.png",
+      "tipo": "image/png",
+      "bytes": 324984
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-4-809x1024.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-4-809x1024.png",
+      "tipo": "image/png",
+      "bytes": 319146
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7557-copiar-edited.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7557-copiar-edited.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 199860
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/fonts/PublicaSans-Bold.otf": {
+      "arquivo": "wp-content/uploads/fonts/PublicaSans-Bold.otf",
+      "tipo": "font/otf",
+      "bytes": 84676
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/fonts/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565xg0pX189fg.woff2": {
+      "arquivo": "wp-content/uploads/fonts/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565xg0pX189fg.woff2",
+      "tipo": "font/woff2",
+      "bytes": 23204
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-6.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-6.png",
+      "tipo": "image/png",
+      "bytes": 555404
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/josh-olalde-X1P1_EDNnok-unsplash-1536x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/josh-olalde-X1P1_EDNnok-unsplash-1536x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 165043
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7477-copiar-683x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7477-copiar-683x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 53470
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-4-237x300.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-4-237x300.png",
+      "tipo": "image/png",
+      "bytes": 36295
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7871-copiar-1024x683.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7871-copiar-1024x683.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 128945
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp24.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp24.png",
+      "tipo": "image/png",
+      "bytes": 78036
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/arsenal/arsenal-regular.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/arsenal/arsenal-regular.woff2",
+      "tipo": "font/woff2",
+      "bytes": 53696
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp16.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/emp16.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 23977
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/norte-709x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/norte-709x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 70089
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-regular.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-regular.woff2",
+      "tipo": "font/woff2",
+      "bytes": 60172
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8121-copiar-1365x2048.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8121-copiar-1365x2048.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 400895
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-2.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/image-2.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 145798
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-01-1280x1219-1.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-01-1280x1219-1.png",
+      "tipo": "image/png",
+      "bytes": 2515070
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-12-200x300.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-12-200x300.png",
+      "tipo": "image/png",
+      "bytes": 31560
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/Perfil-do-instagram-simbolo-andrade-viana-150x150.png": {
+      "arquivo": "wp-content/uploads/2025/06/Perfil-do-instagram-simbolo-andrade-viana-150x150.png",
+      "tipo": "image/png",
+      "bytes": 3183
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/hind/hind-variable.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/hind/hind-variable.woff2",
+      "tipo": "font/woff2",
+      "bytes": 23456
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-1-1024x817.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-1-1024x817.png",
+      "tipo": "image/png",
+      "bytes": 288359
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp22.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp22.png",
+      "tipo": "image/png",
+      "bytes": 89049
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-extra-light.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-extra-light.woff2",
+      "tipo": "font/woff2",
+      "bytes": 64072
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-medium.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-medium.woff2",
+      "tipo": "font/woff2",
+      "bytes": 63940
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7670-copiar-768x1152.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7670-copiar-768x1152.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 68755
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-03-1280x1219-1-768x731.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-03-1280x1219-1-768x731.png",
+      "tipo": "image/png",
+      "bytes": 304986
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/Perfil-do-instagram-simbolo-andrade-viana-300x300.png": {
+      "arquivo": "wp-content/uploads/2025/06/Perfil-do-instagram-simbolo-andrade-viana-300x300.png",
+      "tipo": "image/png",
+      "bytes": 6319
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/suplan-768x653.png": {
+      "arquivo": "wp-content/uploads/2025/06/suplan-768x653.png",
+      "tipo": "image/png",
+      "bytes": 226494
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/ingla.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/ingla.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 114282
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/fonts/PublicaSans-Thin.otf": {
+      "arquivo": "wp-content/uploads/fonts/PublicaSans-Thin.otf",
+      "tipo": "font/otf",
+      "bytes": 82344
+    },
+    "https://andradevianaengenharia.com.br/wp-includes/blocks/social-links/style.min.css?ver=6.8.2": {
+      "arquivo": "wp-includes/blocks/social-links/style.min-6c2d074a.css",
+      "tipo": "text/css",
+      "bytes": 11762
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/inconsolata/inconsolata-variable.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/inconsolata/inconsolata-variable.woff2",
+      "tipo": "font/woff2",
+      "bytes": 150244
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/space-mono/space-mono-regular.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/space-mono/space-mono-regular.woff2",
+      "tipo": "font/woff2",
+      "bytes": 32336
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/equipeAV-200x300.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/equipeAV-200x300.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 16027
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8121-copiar-200x300.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8121-copiar-200x300.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 16403
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-Engenharia-360°-Uniao-entre-Civil-e-Eletrica-1350x536-1-1024x407.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-Engenharia-360°-Uniao-entre-Civil-e-Eletrica-1350x536-1-1024x407.png",
+      "tipo": "image/png",
+      "bytes": 157212
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/karla/karla.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/karla/karla.woff2",
+      "tipo": "font/woff2",
+      "bytes": 41624
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8165-copiar-683x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8165-copiar-683x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 69527
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7670-copiar-200x300.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7670-copiar-200x300.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 10568
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/source-serif-pro/source-serif-pro.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/source-serif-pro/source-serif-pro.woff2",
+      "tipo": "font/woff2",
+      "bytes": 424172
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/daniel-mccullough-FPFq_trr2Y-unsplash-768x432.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/daniel-mccullough-FPFq_trr2Y-unsplash-768x432.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 33081
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/cryout-serious-slider/resources/jquery.mobile.custom.min.js?ver=1.2.7": {
+      "arquivo": "wp-content/plugins/cryout-serious-slider/resources/jquery.mobile.custom.min-4281811d.js",
+      "tipo": "text/javascript",
+      "bytes": 17711
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/slider-blocks/assets/css/swiper-bundle.min.css?ver=2.9.17": {
+      "arquivo": "wp-content/plugins/slider-blocks/assets/css/swiper-bundle.min-47cd2334.css",
+      "tipo": "text/css",
+      "bytes": 18459
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-9-175x300.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-9-175x300.png",
+      "tipo": "image/png",
+      "bytes": 34584
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7670-copiar-1024x1536.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7670-copiar-1024x1536.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 122646
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp30.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp30.png",
+      "tipo": "image/png",
+      "bytes": 63341
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-9-768x1317.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-9-768x1317.png",
+      "tipo": "image/png",
+      "bytes": 475056
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-2-768x1006.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-2-768x1006.png",
+      "tipo": "image/png",
+      "bytes": 257927
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-02-1280x1219-1-768x731.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-02-1280x1219-1-768x731.png",
+      "tipo": "image/png",
+      "bytes": 194370
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/daniel-mccullough-FPFq_trr2Y-unsplash-1024x576.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/daniel-mccullough-FPFq_trr2Y-unsplash-1024x576.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 49165
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/fonts/PublicaSans-Light.otf": {
+      "arquivo": "wp-content/uploads/fonts/PublicaSans-Light.otf",
+      "tipo": "font/otf",
+      "bytes": 83036
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-Engenharia-360°-Uniao-entre-Civil-e-Eletrica-1350x536-1-300x119.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-Engenharia-360°-Uniao-entre-Civil-e-Eletrica-1350x536-1-300x119.png",
+      "tipo": "image/png",
+      "bytes": 13108
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp28.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp28.png",
+      "tipo": "image/png",
+      "bytes": 77977
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-768x431.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-768x431.png",
+      "tipo": "image/png",
+      "bytes": 232976
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8121-copiar-1024x1536.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8121-copiar-1024x1536.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 246697
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/roboto-flex/roboto-flex.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/roboto-flex/roboto-flex.woff2",
+      "tipo": "font/woff2",
+      "bytes": 728620
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-03-1280x1219-1-1024x975.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-03-1280x1219-1-1024x975.png",
+      "tipo": "image/png",
+      "bytes": 499033
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7477-copiar-1365x2048.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7477-copiar-1365x2048.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 167937
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01-300x69.png": {
+      "arquivo": "wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01-300x69.png",
+      "tipo": "image/png",
+      "bytes": 2951
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-6-768x1069.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-6-768x1069.png",
+      "tipo": "image/png",
+      "bytes": 292770
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8165-copiar-768x1152.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8165-copiar-768x1152.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 84631
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7670-copiar-683x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7670-copiar-683x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 55910
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01-768x177.png": {
+      "arquivo": "wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01-768x177.png",
+      "tipo": "image/png",
+      "bytes": 7448
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/cryout-serious-slider/resources/style.css?ver=1.4.1": {
+      "arquivo": "wp-content/plugins/cryout-serious-slider/resources/style-330ac2af.css",
+      "tipo": "text/css",
+      "bytes": 48780
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01-1536x354.png": {
+      "arquivo": "wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01-1536x354.png",
+      "tipo": "image/png",
+      "bytes": 16937
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/mulish/mulish.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/mulish/mulish.woff2",
+      "tipo": "font/woff2",
+      "bytes": 77172
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-8.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-8.png",
+      "tipo": "image/png",
+      "bytes": 507784
+    },
+    "https://andradevianaengenharia.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1": {
+      "arquivo": "wp-includes/js/jquery/jquery-migrate.min-558973c0.js",
+      "tipo": "text/javascript",
+      "bytes": 13577
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/equipeAV-1365x2048.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/equipeAV-1365x2048.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 301043
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/ingla-768x513.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/ingla-768x513.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 90930
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-3.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-3.png",
+      "tipo": "image/png",
+      "bytes": 604468
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7670-copiar.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7670-copiar.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 851151
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/daniel-mccullough-FPFq_trr2Y-unsplash-300x169.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/daniel-mccullough-FPFq_trr2Y-unsplash-300x169.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 11142
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/fonts/ZPublicaSans.otf": {
+      "arquivo": "wp-content/uploads/fonts/ZPublicaSans.otf",
+      "tipo": "font/otf",
+      "bytes": 82592
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/Captura-de-Tela-2025-06-26-as-23.27.11-1024x572.png": {
+      "arquivo": "wp-content/uploads/2025/06/Captura-de-Tela-2025-06-26-as-23.27.11-1024x572.png",
+      "tipo": "image/png",
+      "bytes": 171702
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp19.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp19.png",
+      "tipo": "image/png",
+      "bytes": 58669
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7862-copiar-2-200x300.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7862-copiar-2-200x300.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 15162
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/slider-blocks/build/blocks/logo-carousel/frontend.js?ver=0f22402f42ea3f0d8db3": {
+      "arquivo": "wp-content/plugins/slider-blocks/build/blocks/logo-carousel/frontend-21722582.js",
+      "tipo": "text/javascript",
+      "bytes": 493
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/style.css?ver=2.0.27": {
+      "arquivo": "wp-content/themes/extendable/style-a6a64f88.css",
+      "tipo": "text/css",
+      "bytes": 11551
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/geom/geom-variable.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/geom/geom-variable.woff2",
+      "tipo": "font/woff2",
+      "bytes": 39160
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/baloo-tamma-2/baloo-tamma-2_wght.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/baloo-tamma-2/baloo-tamma-2_wght.woff2",
+      "tipo": "font/woff2",
+      "bytes": 139284
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8165-copiar-1024x1536.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8165-copiar-1024x1536.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 135084
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-1.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-1.png",
+      "tipo": "image/png",
+      "bytes": 1490384
+    },
+    "https://images.unsplash.com/photo-1632398535774-b95738ddff68?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHwxNXx8ZW5naW5lZXJpbmclMjBidWlsZGluZ3xlbnwwfHx8fDE3NTA5NTUwMDF8MA&ixlib=rb-4.1.0&orientation=landscape?fit=crop&crop=entropy%2Cfaces&auto=format%2Ccompress&w=1280": {
+      "arquivo": "_externos/images.unsplash.com/photo-1632398535774-b95738ddff68-7e14d060",
+      "tipo": "text/html",
+      "bytes": 231507
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/radio-canada/radio-canada.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/radio-canada/radio-canada.woff2",
+      "tipo": "font/woff2",
+      "bytes": 82924
+    },
+    "https://andradevianaengenharia.com.br/wp-includes/blocks/navigation/style.min.css?ver=7.1.3": {
+      "arquivo": "wp-includes/blocks/navigation/style.min-55e2c542.css",
+      "tipo": "text/css",
+      "bytes": 20776
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7477-copiar-768x1152.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7477-copiar-768x1152.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 63407
+    },
+    "https://andradevianaengenharia.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": {
+      "arquivo": "wp-includes/js/jquery/jquery.min-f43b551b.js",
+      "tipo": "text/javascript",
+      "bytes": 87553
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-bold.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-bold.woff2",
+      "tipo": "font/woff2",
+      "bytes": 60192
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/10-edited-300x297.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/10-edited-300x297.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 12682
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/suplan-300x255.png": {
+      "arquivo": "wp-content/uploads/2025/06/suplan-300x255.png",
+      "tipo": "image/png",
+      "bytes": 44715
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/js/navigation-customization.js": {
+      "arquivo": "wp-content/themes/extendable/assets/js/navigation-customization.js",
+      "tipo": "text/javascript",
+      "bytes": 1048
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp1.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp1.png",
+      "tipo": "image/png",
+      "bytes": 135808
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-2-229x300.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-2-229x300.png",
+      "tipo": "image/png",
+      "bytes": 33194
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp13.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/emp13.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 40829
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/slider-blocks/assets/js/swiper-bundle.min.js?ver=2.9.17": {
+      "arquivo": "wp-content/plugins/slider-blocks/assets/js/swiper-bundle.min-47cd2334.js",
+      "tipo": "text/javascript",
+      "bytes": 151701
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-9-597x1024.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-9-597x1024.png",
+      "tipo": "image/png",
+      "bytes": 285797
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/vieira.png": {
+      "arquivo": "wp-content/uploads/2025/06/vieira.png",
+      "tipo": "image/png",
+      "bytes": 527705
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/nichika-sakurai-HmaOhgodxbI-unsplash-768x512.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/nichika-sakurai-HmaOhgodxbI-unsplash-768x512.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 90490
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-8-222x300.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-8-222x300.png",
+      "tipo": "image/png",
+      "bytes": 28745
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/10-edited-768x759.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/10-edited-768x759.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 45235
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/nichika-sakurai-HmaOhgodxbI-unsplash-1024x683.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/nichika-sakurai-HmaOhgodxbI-unsplash-1024x683.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 141647
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/equipeAV-683x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/equipeAV-683x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 94355
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/nichika-sakurai-HmaOhgodxbI-unsplash-300x200.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/nichika-sakurai-HmaOhgodxbI-unsplash-300x200.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 22203
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-2-782x1024.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-2-782x1024.png",
+      "tipo": "image/png",
+      "bytes": 266524
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/josh-olalde-X1P1_EDNnok-unsplash-2048x1365.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/josh-olalde-X1P1_EDNnok-unsplash-2048x1365.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 274418
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-03-1280x1219-1-300x286.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-03-1280x1219-1-300x286.png",
+      "tipo": "image/png",
+      "bytes": 59373
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/oswald/oswald.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/oswald/oswald.woff2",
+      "tipo": "font/woff2",
+      "bytes": 70608
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/marcellus/marcellus_wght.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/marcellus/marcellus_wght.woff2",
+      "tipo": "font/woff2",
+      "bytes": 18408
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/nichika-sakurai-HmaOhgodxbI-unsplash-2048x1365.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/nichika-sakurai-HmaOhgodxbI-unsplash-2048x1365.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 417917
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7871-copiar-1536x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7871-copiar-1536x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 227462
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/equipeAV-768x1152.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/equipeAV-768x1152.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 112701
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/vieira-768x1150.png": {
+      "arquivo": "wp-content/uploads/2025/06/vieira-768x1150.png",
+      "tipo": "image/png",
+      "bytes": 394719
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-10-300x250.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-10-300x250.png",
+      "tipo": "image/png",
+      "bytes": 36398
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/norte-208x300.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/norte-208x300.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 9593
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/perini2-1024x776.png": {
+      "arquivo": "wp-content/uploads/2025/06/perini2-1024x776.png",
+      "tipo": "image/png",
+      "bytes": 560507
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-9-896x1536.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-9-896x1536.png",
+      "tipo": "image/png",
+      "bytes": 652994
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-semibold.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-semibold.woff2",
+      "tipo": "font/woff2",
+      "bytes": 64200
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-300x168.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-300x168.png",
+      "tipo": "image/png",
+      "bytes": 42888
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-6-736x1024.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-6-736x1024.png",
+      "tipo": "image/png",
+      "bytes": 268885
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/heebo/heebo-variable-wght.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/heebo/heebo-variable-wght.woff2",
+      "tipo": "font/woff2",
+      "bytes": 63808
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/cryout-serious-slider/resources/slider.js?ver=1.4.1": {
+      "arquivo": "wp-content/plugins/cryout-serious-slider/resources/slider-330ac2af.js",
+      "tipo": "text/javascript",
+      "bytes": 9710
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/fonts/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65xg0pX189fg.woff2": {
+      "arquivo": "wp-content/uploads/fonts/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65xg0pX189fg.woff2",
+      "tipo": "font/woff2",
+      "bytes": 24464
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/norte-768x1109.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/norte-768x1109.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 79299
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp26.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp26.png",
+      "tipo": "image/png",
+      "bytes": 67418
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7670-copiar-1365x2048.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7670-copiar-1365x2048.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 219517
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-11.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-11.png",
+      "tipo": "image/png",
+      "bytes": 437336
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-6-216x300.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-6-216x300.png",
+      "tipo": "image/png",
+      "bytes": 28149
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7557-copiar-edited-200x300.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7557-copiar-edited-200x300.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 9870
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/perini2-300x227.png": {
+      "arquivo": "wp-content/uploads/2025/06/perini2-300x227.png",
+      "tipo": "image/png",
+      "bytes": 59012
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/inter/inter-variable.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/inter/inter-variable.woff2",
+      "tipo": "font/woff2",
+      "bytes": 326108
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/noto-serif-display/noto-serif-display.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/noto-serif-display/noto-serif-display.woff2",
+      "tipo": "font/woff2",
+      "bytes": 722904
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-03-1280x1219-1.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-03-1280x1219-1.png",
+      "tipo": "image/png",
+      "bytes": 1696610
+    },
+    "https://images.unsplash.com/photo-1599707254554-027aeb4deacd?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHwxOXx8Y29uc3RydWN0aW9uJTIwc2l0ZXxlbnwwfHx8fDE3NTA0Njg1MzZ8MA&ixlib=rb-4.1.0&orientation=landscape?fit=crop&crop=entropy%2Cfaces&auto=format%2Ccompress&w=1280": {
+      "arquivo": "_externos/images.unsplash.com/photo-1599707254554-027aeb4deacd-4cf07484",
+      "tipo": "text/html",
+      "bytes": 294433
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-10-768x639.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-10-768x639.png",
+      "tipo": "image/png",
+      "bytes": 186960
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/daniel-mccullough-FPFq_trr2Y-unsplash-1536x864.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/daniel-mccullough-FPFq_trr2Y-unsplash-1536x864.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 89463
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/equipeAV-1024x1536.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/equipeAV-1024x1536.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 180128
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/Captura-de-Tela-2025-06-26-as-23.27.11-768x429.png": {
+      "arquivo": "wp-content/uploads/2025/06/Captura-de-Tela-2025-06-26-as-23.27.11-768x429.png",
+      "tipo": "image/png",
+      "bytes": 102817
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-1.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/image-1.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 457497
+    },
+    "https://andradevianaengenharia.com.br/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240": {
+      "arquivo": "wp-includes/js/dist/script-modules/block-library/navigation/view.min-f3d811b4.js",
+      "tipo": "text/javascript",
+      "bytes": 3033
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-Engenharia-360°-Uniao-entre-Civil-e-Eletrica-1350x536-1.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-Engenharia-360°-Uniao-entre-Civil-e-Eletrica-1350x536-1.png",
+      "tipo": "image/png",
+      "bytes": 543203
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-4.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-4.png",
+      "tipo": "image/png",
+      "bytes": 532143
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp20.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp20.png",
+      "tipo": "image/png",
+      "bytes": 80021
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8121-copiar-683x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8121-copiar-683x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 123693
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8121-copiar-768x1152.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8121-copiar-768x1152.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 151005
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp31.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp31.png",
+      "tipo": "image/png",
+      "bytes": 67792
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7862-copiar-2-768x1152.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7862-copiar-2-768x1152.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 112757
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-1-768x613.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-1-768x613.png",
+      "tipo": "image/png",
+      "bytes": 174220
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-Engenharia-360°-Uniao-entre-Civil-e-Eletrica-1350x536-1-768x305.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-Engenharia-360°-Uniao-entre-Civil-e-Eletrica-1350x536-1-768x305.png",
+      "tipo": "image/png",
+      "bytes": 96222
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/cryout-serious-slider/resources/style.css?ver=1.2.7": {
+      "arquivo": "wp-content/plugins/cryout-serious-slider/resources/style-4281811d.css",
+      "tipo": "text/css",
+      "bytes": 48780
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/cryout-serious-slider/resources/slider.js?ver=1.2.7": {
+      "arquivo": "wp-content/plugins/cryout-serious-slider/resources/slider-4281811d.js",
+      "tipo": "text/javascript",
+      "bytes": 9710
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/Captura-de-Tela-2025-06-26-as-23.27.11-300x168.png": {
+      "arquivo": "wp-content/uploads/2025/06/Captura-de-Tela-2025-06-26-as-23.27.11-300x168.png",
+      "tipo": "image/png",
+      "bytes": 25795
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8165-copiar-200x300.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8165-copiar-200x300.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 12313
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7477-copiar-1024x1536.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7477-copiar-1024x1536.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 100837
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-8-758x1024.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-8-758x1024.png",
+      "tipo": "image/png",
+      "bytes": 241867
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-2.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-2.png",
+      "tipo": "image/png",
+      "bytes": 464081
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-thin.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-thin.woff2",
+      "tipo": "font/woff2",
+      "bytes": 59240
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/slider-blocks/build/blocks/content-slider/frontend.js?ver=96c36f671c834be39c00": {
+      "arquivo": "wp-content/plugins/slider-blocks/build/blocks/content-slider/frontend-ec83f394.js",
+      "tipo": "text/javascript",
+      "bytes": 494
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/perini2.png": {
+      "arquivo": "wp-content/uploads/2025/06/perini2.png",
+      "tipo": "image/png",
+      "bytes": 1105364
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/vieira-684x1024.png": {
+      "arquivo": "wp-content/uploads/2025/06/vieira-684x1024.png",
+      "tipo": "image/png",
+      "bytes": 307088
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/vieira-200x300.png": {
+      "arquivo": "wp-content/uploads/2025/06/vieira-200x300.png",
+      "tipo": "image/png",
+      "bytes": 36782
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7862-copiar-2-scaled.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7862-copiar-2-scaled.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 456973
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01-1024x236.png": {
+      "arquivo": "wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01-1024x236.png",
+      "tipo": "image/png",
+      "bytes": 10427
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-1024x575.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-1024x575.png",
+      "tipo": "image/png",
+      "bytes": 387455
+    },
+    "https://andradevianaengenharia.com.br/wp-includes/blocks/navigation/style.min.css?ver=6.8.2": {
+      "arquivo": "wp-includes/blocks/navigation/style.min-6c2d074a.css",
+      "tipo": "text/css",
+      "bytes": 20776
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-01-1280x1219-1-1024x975.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-01-1280x1219-1-1024x975.png",
+      "tipo": "image/png",
+      "bytes": 954204
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7477-copiar-200x300.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7477-copiar-200x300.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 10731
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7557-copiar-edited-768x1152.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7557-copiar-edited-768x1152.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 61155
+    },
+    "https://andradevianaengenharia.com.br/wp-includes/blocks/cover/style.min.css?ver=6.8.2": {
+      "arquivo": "wp-includes/blocks/cover/style.min-6c2d074a.css",
+      "tipo": "text/css",
+      "bytes": 20316
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/emp27.png": {
+      "arquivo": "wp-content/uploads/2025/06/emp27.png",
+      "tipo": "image/png",
+      "bytes": 62229
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/slider-blocks/build/blocks/logo-carousel/style-index.css?ver=0.1.0": {
+      "arquivo": "wp-content/plugins/slider-blocks/build/blocks/logo-carousel/style-index-c5da632c.css",
+      "tipo": "text/css",
+      "bytes": 10389
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-light.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/ibm-plex-sans/ibm-plex-sans-light.woff2",
+      "tipo": "font/woff2",
+      "bytes": 63496
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-3-223x300.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-3-223x300.png",
+      "tipo": "image/png",
+      "bytes": 36348
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/10-edited.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/10-edited.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 48637
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/daniel-mccullough-FPFq_trr2Y-unsplash-2048x1152.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/daniel-mccullough-FPFq_trr2Y-unsplash-2048x1152.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 142798
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/cryout-serious-slider/resources/jquery.mobile.custom.min.js?ver=1.4.1": {
+      "arquivo": "wp-content/plugins/cryout-serious-slider/resources/jquery.mobile.custom.min-330ac2af.js",
+      "tipo": "text/javascript",
+      "bytes": 17711
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/ingla-300x200.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/ingla-300x200.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 17730
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-8121-copiar.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-8121-copiar.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 1252630
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/image-10.png": {
+      "arquivo": "wp-content/uploads/2025/06/image-10.png",
+      "tipo": "image/png",
+      "bytes": 350052
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/gutslider-styles/gutslider-styles-32.min.css?ver=1756981725": {
+      "arquivo": "wp-content/uploads/gutslider-styles/gutslider-styles-32.min-4c624795.css",
+      "tipo": "text/css",
+      "bytes": 714
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/rubik/rubik.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/rubik/rubik.woff2",
+      "tipo": "font/woff2",
+      "bytes": 76868
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/AF-7862-copiar-2-683x1024.jpg": {
+      "arquivo": "wp-content/uploads/2025/06/AF-7862-copiar-2-683x1024.jpg",
+      "tipo": "image/jpeg",
+      "bytes": 93574
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01.png": {
+      "arquivo": "wp-content/uploads/2025/07/Logo-fundo-escuro-andrade-viana-01.png",
+      "tipo": "image/png",
+      "bytes": 39468
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/manrope/manrope.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/manrope/manrope.woff2",
+      "tipo": "font/woff2",
+      "bytes": 50128
+    },
+    "https://andradevianaengenharia.com.br/wp-content/themes/extendable/assets/fonts/montserrat/montserrat.woff2": {
+      "arquivo": "wp-content/themes/extendable/assets/fonts/montserrat/montserrat.woff2",
+      "tipo": "font/woff2",
+      "bytes": 124924
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-02-1280x1219-1.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-02-1280x1219-1.png",
+      "tipo": "image/png",
+      "bytes": 1639194
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/07/banner-cases-reais-01-1280x1219-1-768x731.png": {
+      "arquivo": "wp-content/uploads/2025/07/banner-cases-reais-01-1280x1219-1-768x731.png",
+      "tipo": "image/png",
+      "bytes": 560492
+    },
+    "https://andradevianaengenharia.com.br/wp-content/uploads/2025/06/predio.png": {
+      "arquivo": "wp-content/uploads/2025/06/predio.png",
+      "tipo": "image/png",
+      "bytes": 8120967
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/cryout-serious-slider/resources/fonts/serioussliderglyphs.svg?ap45ke": {
+      "arquivo": "wp-content/plugins/cryout-serious-slider/resources/fonts/serioussliderglyphs-ee585c7a.svg",
+      "tipo": "image/svg+xml",
+      "bytes": 5873
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/cryout-serious-slider/resources/fonts/serioussliderglyphs.woff?ap45ke": {
+      "arquivo": "wp-content/plugins/cryout-serious-slider/resources/fonts/serioussliderglyphs-ee585c7a.woff",
+      "tipo": "font/woff",
+      "bytes": 2700
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/cryout-serious-slider/resources/fonts/serioussliderglyphs.eot?ap45ke": {
+      "arquivo": "wp-content/plugins/cryout-serious-slider/resources/fonts/serioussliderglyphs-ee585c7a.eot",
+      "tipo": "application/vnd.ms-fontobject",
+      "bytes": 2836
+    },
+    "https://andradevianaengenharia.com.br/wp-content/plugins/cryout-serious-slider/resources/fonts/serioussliderglyphs.ttf?ap45ke": {
+      "arquivo": "wp-content/plugins/cryout-serious-slider/resources/fonts/serioussliderglyphs-ee585c7a.ttf",
+      "tipo": "font/ttf",
+      "bytes": 2624
+    }
+  },
+  "referencias_invalidas_na_origem": {
+    "https://andradevianaengenharia.com.br/&apos;https:/andradevianaengenharia.com.br/wp-content/uploads/2025/07/Banner-azul-com-logotipo-vazado-.png&apos": "curl: (56) The requested URL returned error: 404\n",
+    "https://andradevianaengenharia.com.br/servicos/&": "curl: (56) The requested URL returned error: 404\n",
+    "https://andradevianaengenharia.com.br/&apos;https:/andradevianaengenharia.com.br/wp-content/uploads/2025/06/Marca-d-agua-andrade-viana-05-e1751040102660.png&apos": "curl: (56) The requested URL returned error: 404\n"
+  },
+  "falhas": {}
+}

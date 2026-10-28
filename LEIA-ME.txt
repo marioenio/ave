@@ -1,0 +1,21 @@
+CÓPIA ESTÁTICA — ANDRADE VIANA ENGENHARIA
+
+Origem: https://andradevianaengenharia.com.br/
+Data: 20/10/2026
+
+Páginas: inicial, sobre, servicos e portfolio.
+
+COMO PUBLICAR
+Envie todo o conteúdo desta pasta para a pasta pública do novo servidor,
+preservando os nomes e a estrutura das subpastas. A entrada é index.html.
+Os links internos foram ajustados para os arquivos HTML locais.
+
+IMAGENS
+As imagens estão em wp-content/uploads, organizadas nas pastas originais.
+Estilos, scripts e fontes também acompanham a cópia.
+
+LIMITES
+Esta é uma cópia das páginas públicas. Não inclui o painel WordPress,
+banco de dados, senhas ou recursos que dependam do servidor original.
+Links de WhatsApp e Instagram continuam abrindo os serviços externos.
+O inventario.json registra os arquivos baixados e eventuais falhas.
